@@ -114,6 +114,7 @@ input::placeholder {
     justify-content: center;
     text-align: center;
     font-size: 30px;
+    margin: 0px 100px;
 }
 
 .donate-plans {
@@ -227,4 +228,20 @@ footer {
 footer p {
     color: white;
     font-size: 20px;
+}
+
+.their-lives {
+    display: flex;
+    margin-left: 120px;
+    margin-right: 120px;
+}
+
+.half-width {
+    width: 50%;
+    margin: 0px 10px;
+}
+
+.half-width img {
+    width: 100%;
+
 }
